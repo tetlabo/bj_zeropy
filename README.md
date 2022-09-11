@@ -1,11 +1,11 @@
-# Business Web Seminar "はじめてのPython入門"
+# Business Web Seminar "Python超入門～基本操作、関数の自作、データ分析の実践"
 
 <div align="right">
 タナカケンタ<br/>
 https://mana.bi/
 </div>
 
-このリポジトリでは、サイゾー社による[Business Web Seminar](https://bwseminar.jp/)サイトで公開 (予定) されている、「はじめてのPython入門」セミナーにおいて、セミナー動画中で使用したハンズオン用のJupyter Notebookファイルやデータを公開しています。
+このリポジトリでは、サイゾー社による[Business Web Seminar](https://bwseminar.jp/)サイトで公開されている、「[Python超入門～基本操作、関数の自作、データ分析の実践](https://bwseminar.jp/2022/09/post_284)」セミナーにおいて、セミナー動画中で使用したハンズオン用のJupyter Notebookファイルやデータを公開しています。
 
 なお、ハンズオン用のNotebookは、Google Colaboratory (Colab) 上で公開しています。セミナーの料金体系などはよく知りませんが、できればセミナーを有償で視聴して、本リポジトリのファイルを活用いただければと思います。
 
